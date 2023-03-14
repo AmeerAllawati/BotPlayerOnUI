@@ -1,0 +1,10 @@
+#ttt_table, #ttt_table td {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-collapse: separate;
+    padding: 10px;
+    table-layout: fixed;
+    border-radius: 10px;
+}
